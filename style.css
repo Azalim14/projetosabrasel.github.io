@@ -112,8 +112,8 @@ h3{
     .timeline::before{
         content: '';
         position: absolute;
-        height: 100%;
-        width: 2px;
+        height: 90.5%;
+        width: 2.5px;
         left: 50%;
         transform: translateX(-50%);
         background-color: #F8941E;
